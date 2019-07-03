@@ -1974,7 +1974,7 @@ body {
   stroke: #149dcc;
 }
 @media (max-width: 991px) and (min-width: 768px) {
-  .cid-ruUytkuxMW .card {
+  .cid-ruUytkuxMW .counter {
     -webkit-flex-basis: 33%;
     flex-basis: 33%;
   }
