@@ -132,7 +132,7 @@ body {
   border-radius: 3px;
 }
 .bg-primary {
-  background-color: #11cbfb !important;
+  background-color: #cc5500 !important;
 }
 .bg-success {
   background-color: #bccede !important;
@@ -141,7 +141,7 @@ body {
   background-color: #232323 !important;
 }
 .bg-warning {
-  background-color: #83cdeb !important;
+  background-color: #f36500 !important;
 }
 .bg-danger {
   background-color: #0084ff !important;
